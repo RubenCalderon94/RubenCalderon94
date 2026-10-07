@@ -1,3 +1,4 @@
+
 # Hola, soy Rubén Calderón 👋
 
 Desarrollador Full Stack Junior especializado en React y TypeScript, con experiencia en aplicaciones web completas, Business Intelligence, integración de IA y automatización de procesos.
@@ -6,7 +7,7 @@ Desarrollador Full Stack Junior especializado en React y TypeScript, con experie
 
 ---
 
-##Experiencia
+## 💼 Experiencia
 
 **Desarrollador Web y Business Intelligence** · Daroma Innovations · Prácticas · 2026
 
@@ -15,13 +16,13 @@ Desarrollador Full Stack Junior especializado en React y TypeScript, con experie
 
 *El código de estos proyectos pertenece a la empresa y sus clientes, por lo que no es público.*
 
-##Formación
+## 🎓 Formación
 
 **Técnico Superior en Desarrollo de Aplicaciones Web (DAW)** · IES Suárez de Figueroa · 2024 – 2026
 
 ---
 
-##Tecnologías
+## 🛠️ Tecnologías
 
 **Frontend**
 
@@ -53,20 +54,20 @@ Desarrollador Full Stack Junior especializado en React y TypeScript, con experie
 
 ---
 
-##Proyectos
+## 📂 Proyectos
 
-**[Calderón Drive](https://github.com/RubenCalderon94/calderon-drive)** · Proyecto final del ciclo DAW  
+**Calderón Drive** · Proyecto final del ciclo DAW  
 Plataforma de concesionario premium online con catálogo, compra, citas, dashboard de cliente y panel de administración, desarrollada con PHP 8, MySQL, JavaScript y CSS sin frameworks.
 
 <p align="center">
-  <img src="img/inicio.png" alt="Calderón Drive — Página de inicio" width="100%" />
+  <img src="img/inicio.png.png" alt="Calderón Drive — Página de inicio" width="100%" />
 </p>
 
 <table>
   <tr>
-    <td width="33%"><img src="img/vehiculos.png" alt="Catálogo y asistente Calderón Drive" /></td>
-    <td width="33%"><img src="img/servicios.png" alt="Servicios y solicitud de citas" /></td>
-    <td width="33%"><img src="img/login.png" alt="Inicio de sesión y registro" /></td>
+    <td width="33%"><img src="img/vehiculos.png.png" alt="Catálogo y asistente Calderón Drive" /></td>
+    <td width="33%"><img src="img/servicios.png.png" alt="Servicios y solicitud de citas" /></td>
+    <td width="33%"><img src="img/login.png.png" alt="Inicio de sesión y registro" /></td>
   </tr>
   <tr>
     <td align="center"><sub>Catálogo y asistente de búsqueda</sub></td>
@@ -80,7 +81,7 @@ Repositorios con prácticas de Java, JavaScript, PHP, SQL y diseño web.
 
 ---
 
-##Contacto
+## 📫 Contacto
 
-- [LinkedIn](www.linkedin.com/in/rubén-calderón-9b2b1535a)
-- ruben.calderon.dev@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/rub%C3%A9n-calder%C3%B3n-9b2b1535a)
+- ✉️ ruben.calderon.dev@gmail.com
