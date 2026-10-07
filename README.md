@@ -6,7 +6,7 @@ Desarrollador Full Stack Junior especializado en React y TypeScript, con experie
 
 ---
 
-## 💼 Experiencia
+##Experiencia
 
 **Desarrollador Web y Business Intelligence** · Daroma Innovations · Prácticas · 2026
 
@@ -15,13 +15,13 @@ Desarrollador Full Stack Junior especializado en React y TypeScript, con experie
 
 *El código de estos proyectos pertenece a la empresa y sus clientes, por lo que no es público.*
 
-## 🎓 Formación
+##Formación
 
 **Técnico Superior en Desarrollo de Aplicaciones Web (DAW)** · IES Suárez de Figueroa · 2024 – 2026
 
 ---
 
-## 🛠️ Tecnologías
+##Tecnologías
 
 **Frontend**
 
@@ -53,7 +53,7 @@ Desarrollador Full Stack Junior especializado en React y TypeScript, con experie
 
 ---
 
-## 📂 Proyectos
+##Proyectos
 
 **[Calderón Drive](https://github.com/RubenCalderon94/calderon-drive)** · Proyecto final del ciclo DAW  
 Plataforma de concesionario premium online con catálogo, compra, citas, dashboard de cliente y panel de administración, desarrollada con PHP 8, MySQL, JavaScript y CSS sin frameworks.
@@ -80,7 +80,7 @@ Repositorios con prácticas de Java, JavaScript, PHP, SQL y diseño web.
 
 ---
 
-## 📫 Contacto
+##Contacto
 
-- 💼 [LinkedIn](TU_URL_DE_LINKEDIN)
-- ✉️ ruben.calderon.dev@gmail.com
+- [LinkedIn](www.linkedin.com/in/rubén-calderón-9b2b1535a)
+- ruben.calderon.dev@gmail.com
