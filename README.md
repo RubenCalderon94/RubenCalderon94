@@ -3,7 +3,7 @@
 
 Desarrollador Full Stack Junior especializado en React y TypeScript, con experiencia en aplicaciones web completas, Business Intelligence, integración de IA y automatización de procesos.
 
-📍 Badajoz, España · Disponible para trabajo en remoto
+📍 Badajoz y alrededores, España · Disponible para trabajo en híbrido y remoto.
 
 ---
 
