@@ -58,6 +58,29 @@ Desarrollador Full Stack Junior especializado en React y TypeScript, con experie
 **[Calderón Drive](https://github.com/RubenCalderon94/calderon-drive)** · Proyecto final del ciclo DAW  
 Plataforma de concesionario premium online con catálogo, compra, citas, dashboard de cliente y panel de administración, desarrollada con PHP 8, MySQL, JavaScript y CSS sin frameworks.
 
+<p align="center">
+  <img src="img/inicio_hero.png" alt="Calderón Drive — Inicio" width="100%" />
+</p>
+
+<table>
+  <tr>
+    <td width="50%"><img src="img/vehiculos_chat_filtros.png" alt="Catálogo con asistente de filtros" /></td>
+    <td width="50%"><img src="img/detalle_calculadora.png" alt="Detalle y calculadora de financiación" /></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Catálogo con asistente de filtros</sub></td>
+    <td align="center"><sub>Detalle y calculadora de financiación</sub></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="img/dashboard_resumen_kpis.png" alt="Dashboard del cliente" /></td>
+    <td width="50%"><img src="img/admin_dashboard_kpis.png" alt="Panel de administración" /></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Dashboard del cliente</sub></td>
+    <td align="center"><sub>Panel de administración</sub></td>
+  </tr>
+</table>
+
 **[Ejercicios del ciclo DAW](https://github.com/RubenCalderon94?tab=repositories)**  
 Repositorios con prácticas de Java, JavaScript, PHP, SQL y diseño web.
 
