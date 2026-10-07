@@ -59,25 +59,19 @@ Desarrollador Full Stack Junior especializado en React y TypeScript, con experie
 Plataforma de concesionario premium online con catálogo, compra, citas, dashboard de cliente y panel de administración, desarrollada con PHP 8, MySQL, JavaScript y CSS sin frameworks.
 
 <p align="center">
-  <img src="img/inicio_hero.png" alt="Calderón Drive — Inicio" width="100%" />
+  <img src="img/inicio.png" alt="Calderón Drive — Página de inicio" width="100%" />
 </p>
 
 <table>
   <tr>
-    <td width="50%"><img src="img/vehiculos_chat_filtros.png" alt="Catálogo con asistente de filtros" /></td>
-    <td width="50%"><img src="img/detalle_calculadora.png" alt="Detalle y calculadora de financiación" /></td>
+    <td width="33%"><img src="img/vehiculos.png" alt="Catálogo y asistente Calderón Drive" /></td>
+    <td width="33%"><img src="img/servicios.png" alt="Servicios y solicitud de citas" /></td>
+    <td width="33%"><img src="img/login.png" alt="Inicio de sesión y registro" /></td>
   </tr>
   <tr>
-    <td align="center"><sub>Catálogo con asistente de filtros</sub></td>
-    <td align="center"><sub>Detalle y calculadora de financiación</sub></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="img/dashboard_resumen_kpis.png" alt="Dashboard del cliente" /></td>
-    <td width="50%"><img src="img/admin_dashboard_kpis.png" alt="Panel de administración" /></td>
-  </tr>
-  <tr>
-    <td align="center"><sub>Dashboard del cliente</sub></td>
-    <td align="center"><sub>Panel de administración</sub></td>
+    <td align="center"><sub>Catálogo y asistente de búsqueda</sub></td>
+    <td align="center"><sub>Servicios y solicitud de citas</sub></td>
+    <td align="center"><sub>Inicio de sesión y registro</sub></td>
   </tr>
 </table>
 
