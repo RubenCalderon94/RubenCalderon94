@@ -60,14 +60,14 @@ Desarrollador Full Stack Junior especializado en React y TypeScript, con experie
 Plataforma de concesionario premium online con catálogo, compra, citas, dashboard de cliente y panel de administración, desarrollada con PHP 8, MySQL, JavaScript y CSS sin frameworks.
 
 <p align="center">
-  <img src="img/inicio.png.png" alt="Calderón Drive — Página de inicio" width="100%" />
+  <img src="img/inicio.png" alt="Calderón Drive — Página de inicio" width="100%" />
 </p>
 
 <table>
   <tr>
-    <td width="33%"><img src="img/vehiculos.png.png" alt="Catálogo y asistente Calderón Drive" /></td>
-    <td width="33%"><img src="img/servicios.png.png" alt="Servicios y solicitud de citas" /></td>
-    <td width="33%"><img src="img/login.png.png" alt="Inicio de sesión y registro" /></td>
+    <td width="33%"><img src="img/vehiculos.png" alt="Catálogo y asistente Calderón Drive" /></td>
+    <td width="33%"><img src="img/servicios.png" alt="Servicios y solicitud de citas" /></td>
+    <td width="33%"><img src="img/login.png" alt="Inicio de sesión y registro" /></td>
   </tr>
   <tr>
     <td align="center"><sub>Catálogo y asistente de búsqueda</sub></td>
