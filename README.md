@@ -57,7 +57,7 @@ Desarrollador Full Stack Junior especializado en React y TypeScript, con experie
 ## 📂 Proyectos
 
 **Calderón Drive** · Proyecto final del ciclo DAW  
-Plataforma de concesionario premium online con catálogo, compra, citas, dashboard de cliente y panel de administración, desarrollada con PHP 8, MySQL, JavaScript y CSS.
+Plataforma de concesionario premium online con catálogo, compra, citas, dashboard de cliente y panel de administración, desarrollada con PHP 8, MySQL, JavaScript, HTML y CSS.
 
 <p align="center">
   <img src="img/inicio.png" alt="Calderón Drive — Página de inicio" width="100%" />
