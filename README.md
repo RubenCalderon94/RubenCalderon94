@@ -83,5 +83,5 @@ Repositorios con prácticas de Java, JavaScript, PHP, SQL y diseño web.
 
 ## 📫 Contacto
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/rub%C3%A9n-calder%C3%B3n-9b2b1535a)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ruben-calderon-dev)
 - ✉️ ruben.calderon.dev@gmail.com
